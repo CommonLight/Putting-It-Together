@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CommonLight/Putting-It-Together/static/css/main.b184a7e3.css",
+    "main.js": "/CommonLight/Putting-It-Together/static/js/main.4fbfd8b2.js",
+    "static/js/787.34983708.chunk.js": "/CommonLight/Putting-It-Together/static/js/787.34983708.chunk.js",
+    "static/media/ClaireFINAL.png": "/CommonLight/Putting-It-Together/static/media/ClaireFINAL.bdad10608d09e60149e7.png",
+    "static/media/BellaFINAL.png": "/CommonLight/Putting-It-Together/static/media/BellaFINAL.786a715a36797479115c.png",
+    "static/media/JayceFINAL.png": "/CommonLight/Putting-It-Together/static/media/JayceFINAL.80c757aaac30907b1c34.png",
+    "static/media/LukeFINAL.png": "/CommonLight/Putting-It-Together/static/media/LukeFINAL.a4f63c04323efce9d8d3.png",
+    "static/media/LucyFINAL.png": "/CommonLight/Putting-It-Together/static/media/LucyFINAL.e6f87095364aba056345.png",
+    "static/media/JasFINAL.png": "/CommonLight/Putting-It-Together/static/media/JasFINAL.05b5652e8fb1a080124e.png",
+    "static/media/CaedFINAL.png": "/CommonLight/Putting-It-Together/static/media/CaedFINAL.535e7023f1155966ee4b.png",
+    "static/media/SethFINAL.png": "/CommonLight/Putting-It-Together/static/media/SethFINAL.26906e2d06193231ddfd.png",
+    "index.html": "/CommonLight/Putting-It-Together/index.html",
+    "main.b184a7e3.css.map": "/CommonLight/Putting-It-Together/static/css/main.b184a7e3.css.map",
+    "main.4fbfd8b2.js.map": "/CommonLight/Putting-It-Together/static/js/main.4fbfd8b2.js.map",
+    "787.34983708.chunk.js.map": "/CommonLight/Putting-It-Together/static/js/787.34983708.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b184a7e3.css",
+    "static/js/main.4fbfd8b2.js"
+  ]
+}
